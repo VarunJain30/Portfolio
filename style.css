@@ -1,0 +1,59 @@
+.head{
+    background-color: rgb(159, 184, 159);
+    height: 80px;
+    font-family: fantasy;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.intro{
+    text-align: center;
+    margin-top: 50px;
+    font-family:fantasy;
+    background-color: rgb(250, 248, 246);
+}
+
+nav{
+    text-align: right;
+}
+
+img{
+    height: 500px;
+    border: 0px;
+}
+
+.fa{
+font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.projects{
+    text-align: center;
+    font-family: fantasy;
+}
+
+.myprojects{
+    width: 250px;
+}
+
+.skills{
+    text-align: center;
+    font-family:fantasy;
+    background-color: rgb(250, 248, 246);
+}
+
+.message{
+    text-align: center;
+}
+
+.ending{
+    background-color: grey;
+    text-align: center;
+}
+
