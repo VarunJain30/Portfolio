@@ -27,8 +27,12 @@ img{
     border: 0px;
 }
 
-img:hover{
+/* .headshot:hover{
     height: 200px;
+} */
+
+.headshot{
+    border-radius: 900px;;
 }
 
 .fa{
