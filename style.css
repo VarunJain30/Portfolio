@@ -11,13 +11,15 @@
 
 .intro{
     text-align: center;
-    margin-top: 50px;
+    /* margin-top: 50px; */
     font-family:fantasy;
     background-color: rgb(250, 248, 246);
 }
 
 nav{
     text-align: right;
+    margin-top: -60px;
+    margin-right: 45px;
     /* background-color: rgb(159, 184, 159); */
     /* align-content:end; */
 }
@@ -49,6 +51,7 @@ a{
 .projects{
     text-align: center;
     font-family: fantasy;
+    height: 300px;
 }
 
 .myprojects{
@@ -81,4 +84,13 @@ a{
 
 .name{
     text-decoration: underline;
+    padding-top: 50px;
+}
+
+.fullname{
+    margin-left: 45px;
+}
+
+.proj{
+    /* border: 2px; */
 }
