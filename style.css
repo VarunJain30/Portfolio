@@ -1,30 +1,32 @@
-.head{
+.head {
     background-color: rgb(159, 184, 159);
     height: 80px;
-    font-family: fantasy;
+    /* font-family: fantasy; */
+    font-family: "Balsamiq Sans", sans-serif;
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.intro{
+.intro {
     text-align: center;
     /* margin-top: 50px; */
-    font-family:fantasy;
+    /* font-family:fantasy; */
+    font-family: "Balsamiq Sans", sans-serif;
     background-color: rgb(250, 248, 246);
 }
 
-nav{
+nav {
     text-align: right;
-    margin-top: -60px;
+    margin-top: -22px;
     margin-right: 45px;
     /* background-color: rgb(159, 184, 159); */
     /* align-content:end; */
 }
 
-img{
+img {
     height: 500px;
     border: 0px;
 }
@@ -33,64 +35,69 @@ img{
     height: 200px;
 } */
 
-.headshot{
-    border-radius: 900px;;
+.headshot {
+    border-radius: 900px;
+    ;
 }
 
-.fa{
-font-size: 40px;
-padding: 15px;
-text-decoration: none;
-color: green;
+.fa {
+    font-size: 40px;
+    padding: 15px;
+    text-decoration: none;
+    color: green;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-.projects{
+.projects {
     text-align: center;
-    font-family: fantasy;
+    /* font-family: fantasy; */
+    font-family: "Balsamiq Sans", sans-serif;
     height: 300px;
 }
 
-.myprojects{
+.myprojects {
     width: 250px;
 }
 
-.skills{
+.skills {
     text-align: center;
-    font-family:fantasy;
+    /* font-family: fantasy; */
+    font-family: "Balsamiq Sans", sans-serif;
     background-color: rgb(250, 248, 246);
     height: 400px;
     align-content: center;
 }
 
-.message{
+.message {
     text-align: center;
     height: 400px;
-    font-family: fantasy;
+    /* font-family: fantasy; */
+    font-family: "Balsamiq Sans", sans-serif;
     align-content: center;
 }
 
-.ending{
+.ending {
     background-color: grey;
     text-align: center;
     height: 50px;
     color: white;
     /* align-items: center; */
     align-content: center;
+    font-family: "Balsamiq Sans", sans-serif;
 }
 
-.name{
+.name {
     text-decoration: underline;
     padding-top: 50px;
 }
 
-.fullname{
+.fullname {
     margin-left: 45px;
 }
 
-.proj{
+.proj {
     /* border: 2px; */
 }
